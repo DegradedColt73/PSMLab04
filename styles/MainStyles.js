@@ -6,12 +6,12 @@ export default StyleSheet.create({
         flex: 1,
     },
     resultContainer: {
-        flex: 1,
-        backgroundColor: 'powderblue',
+        flex: 4,
+        backgroundColor: "#545557",
     },
     keyboardContainer: {
-        flex: 2,
-        backgroundColor: 'skyblue',
+        flex: 8,
+        backgroundColor: '#545557',
     },
 });
 
